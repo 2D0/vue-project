@@ -1,0 +1,289 @@
+[
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/home.vue",
+    "chunkName": "pages/home",
+    "_name": "_421d7952"
+  },
+  {
+    "name": "home_back",
+    "path": "/home_back",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/home_back.vue",
+    "chunkName": "pages/home_back",
+    "_name": "_4627a802"
+  },
+  {
+    "name": "loginBack",
+    "path": "/loginBack",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/loginBack.vue",
+    "chunkName": "pages/loginBack",
+    "_name": "_c2c281b0"
+  },
+  {
+    "name": "sample",
+    "path": "/sample",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/sample.vue",
+    "chunkName": "pages/sample",
+    "_name": "_0c8de2bc"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/test.vue",
+    "chunkName": "pages/test",
+    "_name": "_90dcfcec"
+  },
+  {
+    "name": "auction-detail",
+    "path": "/auction/detail",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/auction/detail.vue",
+    "chunkName": "pages/auction/detail",
+    "_name": "_821bbdd6"
+  },
+  {
+    "name": "auction-list",
+    "path": "/auction/list",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/auction/list.vue",
+    "chunkName": "pages/auction/list",
+    "_name": "_5e64f43c"
+  },
+  {
+    "name": "auction-list_back",
+    "path": "/auction/list_back",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/auction/list_back.vue",
+    "chunkName": "pages/auction/list_back",
+    "_name": "_419ac854"
+  },
+  {
+    "name": "auction-order",
+    "path": "/auction/order",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/auction/order.vue",
+    "chunkName": "pages/auction/order",
+    "_name": "_7d2276ba"
+  },
+  {
+    "name": "join-complete",
+    "path": "/join/complete",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/join/complete.vue",
+    "chunkName": "pages/join/complete",
+    "_name": "_b5dc5e94"
+  },
+  {
+    "name": "join-home",
+    "path": "/join/home",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/join/home.vue",
+    "chunkName": "pages/join/home",
+    "_name": "_d68c6848"
+  },
+  {
+    "name": "login-home",
+    "path": "/login/home",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/login/home.vue",
+    "chunkName": "pages/login/home",
+    "_name": "_e7301986"
+  },
+  {
+    "name": "marketPlace-detail",
+    "path": "/marketPlace/detail",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/marketPlace/detail.vue",
+    "chunkName": "pages/marketPlace/detail",
+    "_name": "_0bd8b42d"
+  },
+  {
+    "name": "marketPlace-list",
+    "path": "/marketPlace/list",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/marketPlace/list.vue",
+    "chunkName": "pages/marketPlace/list",
+    "_name": "_63edfefa"
+  },
+  {
+    "name": "marketPlace-order",
+    "path": "/marketPlace/order",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/marketPlace/order.vue",
+    "chunkName": "pages/marketPlace/order",
+    "_name": "_4e1120a2"
+  },
+  {
+    "name": "marketPlace-sale",
+    "path": "/marketPlace/sale",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/marketPlace/sale.vue",
+    "chunkName": "pages/marketPlace/sale",
+    "_name": "_f1c1dbba"
+  },
+  {
+    "name": "service-privacy",
+    "path": "/service/privacy",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/service/privacy.vue",
+    "chunkName": "pages/service/privacy",
+    "_name": "_b298e334"
+  },
+  {
+    "name": "service-provision",
+    "path": "/service/provision",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/service/provision.vue",
+    "chunkName": "pages/service/provision",
+    "_name": "_f4dac89a"
+  },
+  {
+    "name": "support-sideMenu",
+    "path": "/support/sideMenu",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/support/sideMenu.vue",
+    "chunkName": "pages/support/sideMenu",
+    "_name": "_3e5baee4"
+  },
+  {
+    "name": "system-accountSuspension",
+    "path": "/system/accountSuspension",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/system/accountSuspension.vue",
+    "chunkName": "pages/system/accountSuspension",
+    "_name": "_20041b02"
+  },
+  {
+    "name": "system-systemCheck",
+    "path": "/system/systemCheck",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/system/systemCheck.vue",
+    "chunkName": "pages/system/systemCheck",
+    "_name": "_715e31b1"
+  },
+  {
+    "name": "login-password-complete",
+    "path": "/login/password/complete",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/login/password/complete.vue",
+    "chunkName": "pages/login/password/complete",
+    "_name": "_4eaa98bf"
+  },
+  {
+    "name": "login-password-reset",
+    "path": "/login/password/reset",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/login/password/reset.vue",
+    "chunkName": "pages/login/password/reset",
+    "_name": "_7f3dbdb9"
+  },
+  {
+    "name": "login-password-sendMail",
+    "path": "/login/password/sendMail",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/login/password/sendMail.vue",
+    "chunkName": "pages/login/password/sendMail",
+    "_name": "_7faa29e5"
+  },
+  {
+    "name": "myPage-profile-edit",
+    "path": "/myPage/profile/edit",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/myPage/profile/edit.vue",
+    "chunkName": "pages/myPage/profile/edit",
+    "_name": "_0b5d171c"
+  },
+  {
+    "name": "myPage-profile-home",
+    "path": "/myPage/profile/home",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/myPage/profile/home.vue",
+    "chunkName": "pages/myPage/profile/home",
+    "_name": "_e235a91e"
+  },
+  {
+    "name": "myPage-table-calculate",
+    "path": "/myPage/table/calculate",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/myPage/table/calculate.vue",
+    "chunkName": "pages/myPage/table/calculate",
+    "_name": "_fc6627ae"
+  },
+  {
+    "name": "myPage-table-myNft",
+    "path": "/myPage/table/myNft",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/myPage/table/myNft.vue",
+    "chunkName": "pages/myPage/table/myNft",
+    "_name": "_6724549a"
+  },
+  {
+    "name": "myPage-table-usageHistory",
+    "path": "/myPage/table/usageHistory",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/myPage/table/usageHistory.vue",
+    "chunkName": "pages/myPage/table/usageHistory",
+    "_name": "_59f9cbc0"
+  },
+  {
+    "name": "myPage-table-withdrawal",
+    "path": "/myPage/table/withdrawal",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/myPage/table/withdrawal.vue",
+    "chunkName": "pages/myPage/table/withdrawal",
+    "_name": "_59b8cdfc"
+  },
+  {
+    "name": "myPage-userItem-home",
+    "path": "/myPage/userItem/home",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/myPage/userItem/home.vue",
+    "chunkName": "pages/myPage/userItem/home",
+    "_name": "_0d612614"
+  },
+  {
+    "name": "myPage-userItem-list",
+    "path": "/myPage/userItem/list",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/myPage/userItem/list.vue",
+    "chunkName": "pages/myPage/userItem/list",
+    "_name": "_7a90ea53"
+  },
+  {
+    "name": "support-board-detail",
+    "path": "/support/board/detail",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/support/board/detail.vue",
+    "chunkName": "pages/support/board/detail",
+    "_name": "_71134ed2"
+  },
+  {
+    "name": "support-board-news",
+    "path": "/support/board/news",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/support/board/news.vue",
+    "chunkName": "pages/support/board/news",
+    "_name": "_425092d8"
+  },
+  {
+    "name": "support-board-notice",
+    "path": "/support/board/notice",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/support/board/notice.vue",
+    "chunkName": "pages/support/board/notice",
+    "_name": "_633031d9"
+  },
+  {
+    "name": "support-board-qna",
+    "path": "/support/board/qna",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/support/board/qna.vue",
+    "chunkName": "pages/support/board/qna",
+    "_name": "_380b42b3"
+  },
+  {
+    "name": "support-search-detail",
+    "path": "/support/search/detail",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/support/search/detail.vue",
+    "chunkName": "pages/support/search/detail",
+    "_name": "_cbff38e0"
+  },
+  {
+    "name": "support-search-home",
+    "path": "/support/search/home",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/support/search/home.vue",
+    "chunkName": "pages/support/search/home",
+    "_name": "_067f3244"
+  },
+  {
+    "name": "support-search-menu",
+    "path": "/support/search/menu",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/support/search/menu.vue",
+    "chunkName": "pages/support/search/menu",
+    "_name": "_14837144"
+  },
+  {
+    "name": "support-search-result",
+    "path": "/support/search/result",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/support/search/result.vue",
+    "chunkName": "pages/support/search/result",
+    "_name": "_94a16548"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/2d0/Desktop/D/GIT/vue/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_53746b0a"
+  }
+]
