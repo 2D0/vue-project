@@ -59,5 +59,5 @@ export default {
   build: {
   },
   publicPath: '/vue/',
-  buildDir : 'docs',
+  buildDir : 'root',
 }
