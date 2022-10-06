@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/auction/detail", {data:[{}],fetch:{},mutations:void 0});

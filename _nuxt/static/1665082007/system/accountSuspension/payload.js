@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/system/accountSuspension", {data:[{}],fetch:{},mutations:void 0});

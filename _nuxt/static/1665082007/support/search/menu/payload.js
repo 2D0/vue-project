@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/support/search/menu", {data:[{}],fetch:{},mutations:void 0});
