@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/support/board/qna", {data:[{}],fetch:{},mutations:void 0});

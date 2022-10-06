@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/myPage/table/withdrawal", {data:[{}],fetch:{},mutations:void 0});

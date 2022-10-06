@@ -3,234 +3,273 @@
     "name": "home",
     "path": "/home",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/home.vue",
-    "chunkName": "pages/home"
+    "chunkName": "pages/home",
+    "_name": "_5ec74d8b"
   },
   {
     "name": "home_back",
     "path": "/home_back",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/home_back.vue",
-    "chunkName": "pages/home_back"
+    "chunkName": "pages/home_back",
+    "_name": "_3c08624b"
   },
   {
     "name": "sample",
     "path": "/sample",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/sample.vue",
-    "chunkName": "pages/sample"
+    "chunkName": "pages/sample",
+    "_name": "_47954854"
   },
   {
     "name": "auction-detail",
     "path": "/auction/detail",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/auction/detail.vue",
-    "chunkName": "pages/auction/detail"
+    "chunkName": "pages/auction/detail",
+    "_name": "_18b7fa49"
   },
   {
     "name": "auction-list",
     "path": "/auction/list",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/auction/list.vue",
-    "chunkName": "pages/auction/list"
+    "chunkName": "pages/auction/list",
+    "_name": "_363fc7d4"
   },
   {
     "name": "auction-list_back",
     "path": "/auction/list_back",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/auction/list_back.vue",
-    "chunkName": "pages/auction/list_back"
+    "chunkName": "pages/auction/list_back",
+    "_name": "_3871f2a0"
   },
   {
     "name": "auction-order",
     "path": "/auction/order",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/auction/order.vue",
-    "chunkName": "pages/auction/order"
+    "chunkName": "pages/auction/order",
+    "_name": "_293ab1f4"
   },
   {
     "name": "join-complete",
     "path": "/join/complete",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/join/complete.vue",
-    "chunkName": "pages/join/complete"
+    "chunkName": "pages/join/complete",
+    "_name": "_13520102"
   },
   {
     "name": "join-home",
     "path": "/join/home",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/join/home.vue",
-    "chunkName": "pages/join/home"
+    "chunkName": "pages/join/home",
+    "_name": "_1853fbb0"
   },
   {
     "name": "login-home",
     "path": "/login/home",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/login/home.vue",
-    "chunkName": "pages/login/home"
+    "chunkName": "pages/login/home",
+    "_name": "_10d28671"
   },
   {
     "name": "marketPlace-detail",
     "path": "/marketPlace/detail",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/marketPlace/detail.vue",
-    "chunkName": "pages/marketPlace/detail"
+    "chunkName": "pages/marketPlace/detail",
+    "_name": "_2032593e"
   },
   {
     "name": "marketPlace-list",
     "path": "/marketPlace/list",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/marketPlace/list.vue",
-    "chunkName": "pages/marketPlace/list"
+    "chunkName": "pages/marketPlace/list",
+    "_name": "_63a25b2e"
   },
   {
     "name": "marketPlace-order",
     "path": "/marketPlace/order",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/marketPlace/order.vue",
-    "chunkName": "pages/marketPlace/order"
+    "chunkName": "pages/marketPlace/order",
+    "_name": "_44e84aee"
   },
   {
     "name": "marketPlace-sale",
     "path": "/marketPlace/sale",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/marketPlace/sale.vue",
-    "chunkName": "pages/marketPlace/sale"
+    "chunkName": "pages/marketPlace/sale",
+    "_name": "_f2592352"
   },
   {
     "name": "service-privacy",
     "path": "/service/privacy",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/service/privacy.vue",
-    "chunkName": "pages/service/privacy"
+    "chunkName": "pages/service/privacy",
+    "_name": "_f4ae489c"
   },
   {
     "name": "service-provision",
     "path": "/service/provision",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/service/provision.vue",
-    "chunkName": "pages/service/provision"
+    "chunkName": "pages/service/provision",
+    "_name": "_7c69c5ff"
   },
   {
     "name": "support-sideMenu",
     "path": "/support/sideMenu",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/support/sideMenu.vue",
-    "chunkName": "pages/support/sideMenu"
+    "chunkName": "pages/support/sideMenu",
+    "_name": "_3ef2f67c"
   },
   {
     "name": "system-accountSuspension",
     "path": "/system/accountSuspension",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/system/accountSuspension.vue",
-    "chunkName": "pages/system/accountSuspension"
+    "chunkName": "pages/system/accountSuspension",
+    "_name": "_3cf9f994"
   },
   {
     "name": "system-systemCheck",
     "path": "/system/systemCheck",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/system/systemCheck.vue",
-    "chunkName": "pages/system/systemCheck"
+    "chunkName": "pages/system/systemCheck",
+    "_name": "_556c50e5"
   },
   {
     "name": "login-password-complete",
     "path": "/login/password/complete",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/login/password/complete.vue",
-    "chunkName": "pages/login/password/complete"
+    "chunkName": "pages/login/password/complete",
+    "_name": "_0253da0b"
   },
   {
     "name": "login-password-reset",
     "path": "/login/password/reset",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/login/password/reset.vue",
-    "chunkName": "pages/login/password/reset"
+    "chunkName": "pages/login/password/reset",
+    "_name": "_cf7e4026"
   },
   {
     "name": "login-password-sendMail",
     "path": "/login/password/sendMail",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/login/password/sendMail.vue",
-    "chunkName": "pages/login/password/sendMail"
+    "chunkName": "pages/login/password/sendMail",
+    "_name": "_33536b31"
   },
   {
     "name": "myPage-profile-edit",
     "path": "/myPage/profile/edit",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/myPage/profile/edit.vue",
-    "chunkName": "pages/myPage/profile/edit"
+    "chunkName": "pages/myPage/profile/edit",
+    "_name": "_adda4330"
   },
   {
     "name": "myPage-profile-home",
     "path": "/myPage/profile/home",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/myPage/profile/home.vue",
-    "chunkName": "pages/myPage/profile/home"
+    "chunkName": "pages/myPage/profile/home",
+    "_name": "_2c9af2bd"
   },
   {
     "name": "myPage-table-calculate",
     "path": "/myPage/table/calculate",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/myPage/table/calculate.vue",
-    "chunkName": "pages/myPage/table/calculate"
+    "chunkName": "pages/myPage/table/calculate",
+    "_name": "_6690515d"
   },
   {
     "name": "myPage-table-myNft",
     "path": "/myPage/table/myNft",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/myPage/table/myNft.vue",
-    "chunkName": "pages/myPage/table/myNft"
+    "chunkName": "pages/myPage/table/myNft",
+    "_name": "_9f081632"
   },
   {
     "name": "myPage-table-usageHistory",
     "path": "/myPage/table/usageHistory",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/myPage/table/usageHistory.vue",
-    "chunkName": "pages/myPage/table/usageHistory"
+    "chunkName": "pages/myPage/table/usageHistory",
+    "_name": "_6f502be8"
   },
   {
     "name": "myPage-table-withdrawal",
     "path": "/myPage/table/withdrawal",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/myPage/table/withdrawal.vue",
-    "chunkName": "pages/myPage/table/withdrawal"
+    "chunkName": "pages/myPage/table/withdrawal",
+    "_name": "_f2664b64"
   },
   {
     "name": "myPage-userItem-home",
     "path": "/myPage/userItem/home",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/myPage/userItem/home.vue",
-    "chunkName": "pages/myPage/userItem/home"
+    "chunkName": "pages/myPage/userItem/home",
+    "_name": "_26644848"
   },
   {
     "name": "myPage-userItem-list",
     "path": "/myPage/userItem/list",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/myPage/userItem/list.vue",
-    "chunkName": "pages/myPage/userItem/list"
+    "chunkName": "pages/myPage/userItem/list",
+    "_name": "_d8d7e6f2"
   },
   {
     "name": "support-board-detail",
     "path": "/support/board/detail",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/support/board/detail.vue",
-    "chunkName": "pages/support/board/detail"
+    "chunkName": "pages/support/board/detail",
+    "_name": "_ebd31df4"
   },
   {
     "name": "support-board-news",
     "path": "/support/board/news",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/support/board/news.vue",
-    "chunkName": "pages/support/board/news"
+    "chunkName": "pages/support/board/news",
+    "_name": "_7a345470"
   },
   {
     "name": "support-board-notice",
     "path": "/support/board/notice",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/support/board/notice.vue",
-    "chunkName": "pages/support/board/notice"
+    "chunkName": "pages/support/board/notice",
+    "_name": "_7c33540d"
   },
   {
     "name": "support-board-qna",
     "path": "/support/board/qna",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/support/board/qna.vue",
-    "chunkName": "pages/support/board/qna"
+    "chunkName": "pages/support/board/qna",
+    "_name": "_2ee26cff"
   },
   {
     "name": "support-search-detail",
     "path": "/support/search/detail",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/support/search/detail.vue",
-    "chunkName": "pages/support/search/detail"
+    "chunkName": "pages/support/search/detail",
+    "_name": "_bd3cf048"
   },
   {
     "name": "support-search-home",
     "path": "/support/search/home",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/support/search/home.vue",
-    "chunkName": "pages/support/search/home"
+    "chunkName": "pages/support/search/home",
+    "_name": "_cb13a3ac"
   },
   {
     "name": "support-search-menu",
     "path": "/support/search/menu",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/support/search/menu.vue",
-    "chunkName": "pages/support/search/menu"
+    "chunkName": "pages/support/search/menu",
+    "_name": "_d917e2ac"
   },
   {
     "name": "support-search-result",
     "path": "/support/search/result",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/support/search/result.vue",
-    "chunkName": "pages/support/search/result"
+    "chunkName": "pages/support/search/result",
+    "_name": "_85df1cb0"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/2d0/Desktop/D/GIT/vue-project/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_6340b154"
   }
 ]
